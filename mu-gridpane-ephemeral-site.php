@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:     GridPane Ephemeral Site
- * Plugin URI:      https://gitlab.gridpane.net/gp-public/gridpane-ephemeral-site
+ * Plugin URI:      https://gridpane.com
  * Description:     Ephemeral Site WP Admin Notice
  * Version:         0.1.0
  * Author:          Jeff Cleverley
